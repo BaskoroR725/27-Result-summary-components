@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/BaskoroR725/27-Result-summary-components)
-- Live Site URL: [Vercel / GitHub Pages](https://github.com/BaskoroR725)
+- Live Site URL: [Vercel / GitHub Pages](https://baskoror725.github.io/27-Result-summary-components/)
 
 ## My process
 
